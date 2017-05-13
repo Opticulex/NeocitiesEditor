@@ -1,0 +1,11 @@
+c:\users\ndavi\documents\visual studio 2017\Projects\Neocities Editor\Neocities Editor\bin\Debug\Neocities Editor.exe.config
+c:\users\ndavi\documents\visual studio 2017\Projects\Neocities Editor\Neocities Editor\bin\Debug\Neocities Editor.exe
+c:\users\ndavi\documents\visual studio 2017\Projects\Neocities Editor\Neocities Editor\bin\Debug\Neocities Editor.pdb
+c:\users\ndavi\documents\visual studio 2017\Projects\Neocities Editor\Neocities Editor\obj\Debug\Neocities Editor.csprojResolveAssemblyReference.cache
+c:\users\ndavi\documents\visual studio 2017\Projects\Neocities Editor\Neocities Editor\obj\Debug\Neocities_Editor.Properties.Resources.resources
+c:\users\ndavi\documents\visual studio 2017\Projects\Neocities Editor\Neocities Editor\obj\Debug\Neocities Editor.csproj.GenerateResource.Cache
+c:\users\ndavi\documents\visual studio 2017\Projects\Neocities Editor\Neocities Editor\obj\Debug\Neocities Editor.exe
+c:\users\ndavi\documents\visual studio 2017\Projects\Neocities Editor\Neocities Editor\obj\Debug\Neocities Editor.pdb
+c:\users\ndavi\documents\visual studio 2017\Projects\Neocities Editor\Neocities Editor\obj\Debug\Neocities_Editor.Editor.resources
+C:\Users\ndavi\documents\visual studio 2017\Projects\Neocities Editor\Neocities Editor\obj\Debug\Neocities_Editor.About.resources
+C:\Users\ndavi\documents\visual studio 2017\Projects\Neocities Editor\Neocities Editor\obj\Debug\Neocities_Editor.Uploader.resources
