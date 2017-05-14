@@ -4,6 +4,6 @@ A simple text editing tool with integrated uploading/sync directly with Neocitie
 
 Toolbar images (C) Microsoft. Icon and other images (C) Neocities. Code is completely open source. Developed from scratch to a usable state in under 24 hours.
 
-### [Latest Release (v1.0.0)](https://github.com/Opticulex/NeocitiesEditor/)
+### [Latest Release (v1.0.0)](https://github.com/Opticulex/NeocitiesEditor/releases/)
 
 Requres .NET 4 or higher, Node.js and the Neocities Module. Just download and run!
